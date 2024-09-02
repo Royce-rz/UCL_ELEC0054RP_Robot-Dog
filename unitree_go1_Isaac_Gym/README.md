@@ -253,11 +253,6 @@ To play the custom model in simulation first, replace the line https://github.co
 
 To deploy on the robot, replace the line https://github.com/Improbable-AI/walk-these-ways/blob/master/go1_gym_deploy/scripts/deploy_policy.py#L73 with `label = "$PDIR"`. Then re-run the `send_to_unitree.sh` script to update the files on the robot.
 
-### Logging and Debugging <a name="deployment"></a>
-<i>Coming soon</i>
-### Analyzing Real-world Performance <a name="plotting"></a>
-<i>Coming soon</i>
-
 
 ## Debugging Common Errors  <a name="rcconfig"></a>
 
